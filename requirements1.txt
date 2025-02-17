@@ -1,0 +1,7 @@
+googletrans==4.0.0rc1
+langdetect==1.0.9
+matplotlib==3.10.0
+pandas==2.2.3
+pytest==8.3.3
+Requests==2.32.3
+tqdm==4.66.1
